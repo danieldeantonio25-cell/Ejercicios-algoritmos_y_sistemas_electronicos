@@ -1,35 +1,23 @@
-#include <iostream>
+#include <vector>
+#include <unordered_map>
 
-using namespace std;
-
-bool esPalindromo(int x) {
-    
-    if (x < 0 || (x % 10 == 0 && x != 0)) {
-        return false;
+class Solution {
+public:
+    std::vector<int> twoSum(std::vector<int>& nums, int target) {
+        std::unordered_map<int, int> mapa_indices;
+        
+        for (int i = 0; i < nums.size(); i++) {
+            int complemento = target - nums[i];
+            
+            
+            if (mapa_indices.find(complemento) != mapa_indices.end()) {
+                return {mapa_indices[complemento], i};
+            }
+            
+            
+            mapa_indices[nums[i]] = i;
+        }
+        
+        return {};
     }
-
-    int numeroOriginal = x;
-    long numeroInvertido = 0;
-
-    while (x > 0) {
-        int ultimoDigito = x % 10;
-        numeroInvertido = (numeroInvertido * 10) + ultimoDigito;
-        x /= 10;
-    }
-
-    return numeroOriginal == numeroInvertido;
-}
-
-int main() {
-    int x;
-    cout << "Ingrese un número entero: ";
-    cin >> x;
-
-    if (esPalindromo(x)) {
-        cout << "true (Es palíndromo)" << endl;
-    } else {
-        cout << "false (No es palíndromo)" << endl;
-    }
-
-    return 0;
-}
+};
