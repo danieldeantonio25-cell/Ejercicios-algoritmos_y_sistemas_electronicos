@@ -1,0 +1,6 @@
+/home/daniel/ejercicios_de_programación/Segundo corte/build/CMakeFiles/parking.dir
+/home/daniel/ejercicios_de_programación/Segundo corte/build/CMakeFiles/amstrong.dir
+/home/daniel/ejercicios_de_programación/Segundo corte/build/CMakeFiles/hamming.dir
+/home/daniel/ejercicios_de_programación/Segundo corte/build/CMakeFiles/space.dir
+/home/daniel/ejercicios_de_programación/Segundo corte/build/CMakeFiles/edit_cache.dir
+/home/daniel/ejercicios_de_programación/Segundo corte/build/CMakeFiles/rebuild_cache.dir
