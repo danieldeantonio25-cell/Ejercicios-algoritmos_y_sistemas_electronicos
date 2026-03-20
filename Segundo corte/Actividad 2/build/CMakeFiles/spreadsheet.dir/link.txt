@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/spreadsheet.dir/3484_Design-spreadsheett.cpp.o" -o spreadsheet 

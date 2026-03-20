@@ -1,0 +1,6 @@
+/home/daniel/ejercicios_de_programación/Segundo corte/Actividad 2/build/CMakeFiles/twitter.dir
+/home/daniel/ejercicios_de_programación/Segundo corte/Actividad 2/build/CMakeFiles/spreadsheet.dir
+/home/daniel/ejercicios_de_programación/Segundo corte/Actividad 2/build/CMakeFiles/queen_attack.dir
+/home/daniel/ejercicios_de_programación/Segundo corte/Actividad 2/build/CMakeFiles/robot_simulator.dir
+/home/daniel/ejercicios_de_programación/Segundo corte/Actividad 2/build/CMakeFiles/edit_cache.dir
+/home/daniel/ejercicios_de_programación/Segundo corte/Actividad 2/build/CMakeFiles/rebuild_cache.dir
