@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MedidorEnergia.dir/src/MedidorEnergia.cpp.o CMakeFiles/MedidorEnergia.dir/src/main.cpp.o -o MedidorEnergia 

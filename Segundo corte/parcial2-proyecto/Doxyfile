@@ -1,0 +1,14 @@
+PROJECT_NAME           = "Medidor de Energia"
+PROJECT_BRIEF          = "Sistema de gestion de medidores de energia electrica en C++"
+PROJECT_NUMBER         = 1.0
+OUTPUT_DIRECTORY       = docs
+INPUT                  = include src
+RECURSIVE              = YES
+EXTRACT_ALL            = YES
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+HTML_OUTPUT            = html
+HAVE_DOT               = NO
+QUIET                  = NO
+WARNINGS               = YES
+FILE_PATTERNS          = *.h *.cpp
