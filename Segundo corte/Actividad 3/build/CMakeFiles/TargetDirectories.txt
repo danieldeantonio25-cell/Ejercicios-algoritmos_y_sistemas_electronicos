@@ -1,0 +1,6 @@
+/home/daniel/ejercicios_de_programación/Segundo corte/Actividad 3/build/CMakeFiles/auth_manager.dir
+/home/daniel/ejercicios_de_programación/Segundo corte/Actividad 3/build/CMakeFiles/exam_scores.dir
+/home/daniel/ejercicios_de_programación/Segundo corte/Actividad 3/build/CMakeFiles/crypto_square.dir
+/home/daniel/ejercicios_de_programación/Segundo corte/Actividad 3/build/CMakeFiles/bank_account.dir
+/home/daniel/ejercicios_de_programación/Segundo corte/Actividad 3/build/CMakeFiles/edit_cache.dir
+/home/daniel/ejercicios_de_programación/Segundo corte/Actividad 3/build/CMakeFiles/rebuild_cache.dir

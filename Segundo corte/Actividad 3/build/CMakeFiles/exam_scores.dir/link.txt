@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/exam_scores.dir/leetcode/3709_exam_scores.cpp.o -o exam_scores 

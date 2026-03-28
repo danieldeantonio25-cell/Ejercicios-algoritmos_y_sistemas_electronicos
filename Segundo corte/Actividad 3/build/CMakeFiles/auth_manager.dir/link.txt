@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/auth_manager.dir/leetcode/1797_auth_manager.cpp.o -o auth_manager 
